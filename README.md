@@ -11,6 +11,7 @@ It includes:
 * [https://github.com/scrooloose/nerdtree] : Folder tree
 * [https://github.com/szw/vim-ctrlspace] : Fuzzy file searching
 * [https://github.com/ternjs/tern_for_vim] : JavaScript eidting support
+* [https://github.com/walm/jshint.vim] : Jshint linter
 * some salt and some water
 
 
