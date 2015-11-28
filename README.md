@@ -17,8 +17,14 @@ It includes:
 
 Installation
 -----------
-Replace your .vimrc and your .vim
 
-It requires node and npm to be installed because tern.js
+It requires node.js and npm to be installed because tern.js
 
-Execute npm install in ~/.vim/bundle/tern_for_vim/
+```bash
+git clone https://github.com/xilix/vim-configuration.git
+git submodule init
+git submodule update
+cd ~/.vim/bundle/tern_for_vim/
+npm install
+```
+Replace your .vimrc and your .vim. Be careful as this will overwrite your previous configuration in your .vimrc and .vim folder.
