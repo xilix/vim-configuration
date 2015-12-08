@@ -22,3 +22,12 @@
 [submodule ".vim/bundle/vim-javascript-syntax"]
 	path = .vim/bundle/vim-javascript-syntax
 	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule ".vim/javascript-libraries-syntax.vim"]
+	path = .vim
+	url = https://github.com/othree/javascript-libraries-syntax.vim
+[submodule ".vim/JavaScript-Indent"]
+	path = .vim
+	url = https://github.com/vim-scripts/JavaScript-Indent

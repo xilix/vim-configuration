@@ -12,6 +12,7 @@ It includes:
 * [https://github.com/szw/vim-ctrlspace] : Fuzzy file searching
 * [https://github.com/ternjs/tern_for_vim] : JavaScript eidting support
 * [https://github.com/walm/jshint.vim] : Jshint linter
+* [https://github.com/scrooloose/syntastic] : Syntax checker
 * some salt and some water
 
 
